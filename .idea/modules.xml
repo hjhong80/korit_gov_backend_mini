@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/korit_gov_backend_mini.iml" filepath="$PROJECT_DIR$/.idea/korit_gov_backend_mini.iml" />
+      <module fileurl="file://$PROJECT_DIR$/korit_gov_backend_mini/korit_gov_backend_mini.iml" filepath="$PROJECT_DIR$/korit_gov_backend_mini/korit_gov_backend_mini.iml" />
     </modules>
   </component>
 </project>
